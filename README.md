@@ -23,9 +23,9 @@
 
 > 📌 建議放 3~5 張截圖，分左右兩欄
 
-| 課表頁 | 打卡頁 | 好友課表 | 打卡記錄 |
+| 課表頁 | 打卡頁 |自訂背景 |
 |---|---|---|---|
-| ![課表](docs/screenshots/timetable.png) | ![打卡](docs/screenshots/checkin.png) | ![好友](docs/screenshots/friends.png) | ![記錄](docs/screenshots/history.png) |
+| ![課表](docs/4.jpg) | ![打卡](docs/5.jpg) | ![好友](docs/1.jpg) ![好友](docs/2.jpg) ![好友](docs/3.jpg) |
 
 ---
 
