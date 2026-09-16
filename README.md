@@ -31,27 +31,5 @@
 
 ## 🚀 快速開始
 
-### 環境需求
+### 去載apk
 
-| 項目 | 版本 |
-|---|---|
-| Flutter | 3.24+ |
-| Dart | 3.0+ |
-| Android SDK | API 36 (compileSdk) |
-| Android minSdk | 23 |
-| JDK | 17 |
-
-### 安裝步驟
-
-```bash
-# 1. Clone 專案
-git clone https://github.com/你的帳號/redomyfcu.git
-cd redomyfcu
-
-# 2. 安裝依賴
-flutter pub get
-
-# 3. 設定 Firebase（見下方說明）
-
-# 4. 執行
-flutter run
